@@ -34,6 +34,7 @@ Once logged in, you will see the management panel, where you can monitor your qu
 ### Sending Messages
 
 1. To send messages, install the Pika library:
+
    ```bash
    pip install pika
 
