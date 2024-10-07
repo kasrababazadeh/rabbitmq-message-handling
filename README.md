@@ -83,4 +83,4 @@ This project demonstrates the fundamentals of RabbitMQ message control with Pyth
 
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
