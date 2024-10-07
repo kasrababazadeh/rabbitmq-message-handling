@@ -1,7 +1,5 @@
 # RabbitMQ message handling
 
-## Author: کسری بابازاده (961152113)
-
 ### Overview
 
 This project demonstrates the usage of RabbitMQ for message control using Python. We will cover the installation of RabbitMQ and Erlang, the creation of a message sender and receiver using the Pika library, and a comparison between RabbitMQ and MQTT protocols.
